@@ -15,3 +15,4 @@ Moreover, the dashboard includes a **Sales Map** illustrating sales distribution
 
 This comprehensive analysis equips Discount Mart with actionable insights to optimize sales strategies and enhance profitability.
 
+- [My Public Tableau Account link](https://public.tableau.com/views/DiscountMartSalesAnalytics_17140524035200/Dashboard-DiscountMartSalesAnalytics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
